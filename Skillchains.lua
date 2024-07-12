@@ -101,7 +101,7 @@ sc_info = {
 }
 
 chainbound = {}
-chainbound[1] = L{'Compression','Liquefaction','Induration','Reverberation','Scission'}
+chainbound[1] = L{'Liquefaction','Induration','Reverberation','Impaction','Compression'}
 chainbound[2] = L{'Gravitation','Fragmentation','Distortion'} + chainbound[1]
 chainbound[3] = L{'Light','Darkness'} + chainbound[2]
 

@@ -763,6 +763,7 @@ skills.monster_abilities = {
     }
 
 skills.job_abilities = {
+    [77]  = {en='Weapon Bash',skillchain={'Liquefaction','Induration','Reverberation','Impaction','Compression'}},
     [513] = {en='Poison Nails',skillchain={'Transfixion'}},
     [521] = {en='Regal Scratch',skillchain={'Scission'}},
     [528] = {en='Moonlit Charge',skillchain={'Compression'}},
